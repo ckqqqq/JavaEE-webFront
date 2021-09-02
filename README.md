@@ -1,7 +1,7 @@
 # JavaEE webfront with Vuetify
 
 ## Setup
-In local floder Terminal，
+In local floder Terminal，(such as Idea Ternimal)
 ```
 yarn install
 ```
