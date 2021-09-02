@@ -7,7 +7,7 @@ yarn install
 ```
 
 ### Compiles and hot-reloads for development
-
+## Or you can click "run"button 
 ```
 yarn run serve
 ```
